@@ -207,7 +207,7 @@ h1, h2, h3, h4, h5, h6 { color: #333; }
 }
 
 .tm-section-1-r {
-  padding: 50px 40px;
+  padding: 10px 40px;
   width: 40.5%;
 }
 
@@ -215,7 +215,7 @@ h1, h2, h3, h4, h5, h6 { color: #333; }
 
 .tm-btn {
   display: inline-block;
-  padding: 15px 40px;
+  padding: 10px 40px;
   font-size: 1.1rem;
   border: none;
   background-color: #c77878;

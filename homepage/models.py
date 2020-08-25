@@ -32,3 +32,4 @@ class Resource(models.Model):
     # date_time = models.DateTimeField()
 
     objects = models.Manager()
+    #filefield
