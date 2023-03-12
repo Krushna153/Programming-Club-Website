@@ -10,3 +10,8 @@ Thereafter, if you click on "Events" button it will then lead you to Events sect
 Now if you click on "Contact" button, the contact info will be displayed where you can see who are the current coordinators of programming club as well as previous year's coordinators info having contact details like github profile(if any) and the mail id.
 
 In the last section of home page, mail id and instagram username of programming club is given so that for any queries, you can click on mail icon and for more info, you can visit our PClub's instagram page by clicking on instagram icon.
+
+
+
+
+https://user-images.githubusercontent.com/63357117/224529344-398c0f24-7cb4-462b-b644-74677ae334c2.mp4
